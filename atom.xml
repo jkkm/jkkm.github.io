@@ -4,7 +4,7 @@
   <title><![CDATA[~jkkm/.plan]]></title>
   <link href="http://jkkm.github.io/atom.xml" rel="self"/>
   <link href="http://jkkm.github.io/"/>
-  <updated>2014-01-09T16:48:04-05:00</updated>
+  <updated>2014-01-09T17:03:18-05:00</updated>
   <id>http://jkkm.github.io/</id>
   <author>
     <name><![CDATA[Kyle McMartin]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[first post]]></title>
+    <link href="http://jkkm.github.io/blog/2014/01/09/first-post/"/>
+    <updated>2014-01-09T17:03:00-05:00</updated>
+    <id>http://jkkm.github.io/blog/2014/01/09/first-post</id>
+    <content type="html"><![CDATA[<p>This is the first post.</p>
+]]></content>
+  </entry>
   
 </feed>
